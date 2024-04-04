@@ -2,9 +2,9 @@
 ## Sales Analysis Report
 The Sales Analysis Report project aims to provide comprehensive insights into sales performance and market dynamics. Key objectives include:
 
-1.  Customer Performance Report:Creating a detailed analysis of customer performance to enhance understanding of consumer behavior and preferences.
+1.  [Customer Performance Report](https://github.com/Shashankmishra1109/Sales-and-Finance-analysis/blob/main/Customer%20Performance%20Report.pdf): Creating a detailed analysis of customer performance to enhance understanding of consumer behavior and preferences.
 
-2.  Market Performance and Sales Targets Comparison:Conducting an in-depth comparison between market performance and predefined sales targets to assess alignment and identify areas for improvement.
+2.  [Market Performance and Sales Targets Comparison](https://github.com/Shashankmishra1109/Sales-and-Finance-analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf): Conducting an in-depth comparison between market performance and predefined sales targets to assess alignment and identify areas for improvement.
 
 ## Purpose of Sales Analytics
 Sales analytics serve as a powerful tool for businesses to monitor, evaluate, and optimize sales activities. By analyzing sales data, businesses can:
@@ -19,9 +19,9 @@ Sales analytics serve as a powerful tool for businesses to monitor, evaluate, an
 The Finance Report project focuses on evaluating financial performance and providing crucial insights to support decision-making and stakeholder communication. Key objectives include:
 
 1. Profit and Loss (P&L) Reports:
-- By Fiscal Year
-- By Months
-- By Markets
+- [By Fiscal Year](https://github.com/Shashankmishra1109/Sales-and-Finance-analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+- [By Months](https://github.com/Shashankmishra1109/Sales-and-Finance-analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)
+- [By Markets](https://github.com/Shashankmishra1109/Sales-and-Finance-analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 ## Importance of Analyzing Finance Data
 
